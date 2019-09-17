@@ -17,3 +17,7 @@ conf.interval <- function(x, conf.level=0.95) {
 cv <- function(x) {
 	return (sd(x) / mean(x))
 }
+
+nova.func <- function(x) {
+	return (x + 1)
+}
