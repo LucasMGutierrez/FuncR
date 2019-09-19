@@ -21,3 +21,7 @@ cv <- function(x) {
 nova.func <- function(x) {
 	return (x + 1)
 }
+
+pr <- function(x) {
+	return (x - 1)
+}
