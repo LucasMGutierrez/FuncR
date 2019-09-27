@@ -25,3 +25,5 @@ nova.func <- function(x) {
 pr <- function(x) {
 	return (x - 1)
 }
+
+a <- 1
