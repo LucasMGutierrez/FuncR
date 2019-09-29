@@ -26,4 +26,8 @@ pull.request <- function(x) {
 	return (x - 1)
 }
 
+new.feature <- function(x) {
+	return (x * 1)
+}
+
 a <- 1
