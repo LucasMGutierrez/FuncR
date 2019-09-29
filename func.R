@@ -18,11 +18,11 @@ cv <- function(x) {
 	return (sd(x) / mean(x))
 }
 
-nova.func <- function(x) {
+new.function <- function(x) {
 	return (x + 1)
 }
 
-pr <- function(x) {
+pull.request <- function(x) {
 	return (x - 1)
 }
 
